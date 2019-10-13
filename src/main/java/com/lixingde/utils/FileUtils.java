@@ -1,4 +1,4 @@
-package com.mmcro.utils;
+package com.lixingde.utils;
 
 import java.io.BufferedReader;
 import java.io.File;

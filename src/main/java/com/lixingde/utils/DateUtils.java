@@ -1,4 +1,4 @@
-package com.mmcro.utils;
+package com.lixingde.utils;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

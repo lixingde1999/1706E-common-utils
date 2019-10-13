@@ -1,8 +1,8 @@
-package com.zhuzhiguang.test;
+package com.lixingde.test;
 
 import org.junit.Test;
 
-import com.mmcro.utils.StringUtils;
+import com.lixingde.utils.StringUtils;
 
 
 public class TestString {
